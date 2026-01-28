@@ -33,7 +33,7 @@ I’ll group them by **difficulty + purpose** so future-you thanks
   * digit
   * special char
 * Output: Weak / Medium / Strong
-* CEH relevant ✔️
+
 
 ---
 
@@ -152,11 +152,7 @@ I’ll group them by **difficulty + purpose** so future-you thanks
 
 ---
 
-### 1️⃣5️⃣ CEH Practice Framework
 
-* One script per CEH domain
-* Fully documented
-* GitHub-ready 🚀
 
 ---
 
